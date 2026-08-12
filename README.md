@@ -8,33 +8,6 @@ Building web applications, backend systems, and AI-powered products.
 
 ---
 
-## Featured Work
-
-### meet-shahbaz-ai — AI Resume Assistant
-
-> An AI chatbot that answers questions about my background in first person, grounded in my resume.
-
-A RAG-based application that turns my resume into a conversational interface. The system combines semantic retrieval with keyword search and cross-encoder reranking before generating the response.
-
-**Architecture:**
-
-* React 19 + TypeScript + Vite frontend
-* FastAPI backend running in Docker
-* LangChain for RAG orchestration
-* ChromaDB for vector storage
-* FastEmbed for local embeddings
-* BM25 + vector retrieval using an ensemble retriever
-* Cross-encoder reranking for retrieval quality
-* Groq / Llama 3.1 for generation
-* Google Apps Script for background conversation logging
-* Streaming responses over NDJSON
-
-**Stack:** React · TypeScript · Vite · FastAPI · Python · LangChain · ChromaDB · FastEmbed · Groq · Docker
-
-[Live Project](https://alishahbazzz.github.io/meet-shahbaz-ai) · [Repo](https://github.com/AliShahbazzz/meet-shahbaz-ai)
-
----
-
 ## What I Work With
 
 * **Frontend Engineering** — React, TypeScript, React Native, state management, component architecture
