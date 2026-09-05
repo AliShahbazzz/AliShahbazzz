@@ -46,24 +46,6 @@ Building web applications, backend systems, and AI-powered products.
 
 ---
 
-## Stack
-
-**Frontend:** React · TypeScript · JavaScript · React Native · Vite · Webpack · Nx · MUI · Tailwind CSS
-
-**Backend:** Node.js · NestJS · LoopBack · FastAPI · Python · REST APIs · Serverless
-
-**Architecture:** Nx Monorepo · Module Federation · Micro-frontends · Component Libraries
-
-**AI / LLM:** LangChain · LangGraph · RAG · ChromaDB · FastEmbed · BM25 · Cross-Encoder · OpenAI · Groq · Hugging Face
-
-**Cloud:** AWS · Lambda · S3 · CloudFront · Docker · Serverless Framework
-
-**Databases:** MySQL · MongoDB · DynamoDB · ChromaDB
-
-**Tools:** Git · GitHub Actions · pnpm · Yarn · npm
-
----
-
 ## Let's Connect
 
 [Email](mailto:alishahbaz617@gmail.com) · [LinkedIn](https://linkedin.com/in/syed-shahbaz-ali) · [GitHub](https://github.com/AliShahbazzz)
