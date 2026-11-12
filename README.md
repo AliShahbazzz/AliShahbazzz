@@ -2,178 +2,148 @@
 
 # Syed Shahbaz Ali
 
-### Senior Software Engineer · Full-Stack · Distributed Systems
+<div align="center">
 
-Building scalable applications, reliable backend systems, and intelligent software.
+### ⚡ Curious by nature. &nbsp; ⚙️ Engineer by choice. &nbsp; 🚀 Builder by instinct.
+
+</div>
+
+**Software Engineer · Full-Stack Development · AI Engineering**
 
 <br/>
 
-<a href="mailto:alishahbaz617@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
 <a href="https://linkedin.com/in/syed-shahbaz-ali">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:alishahbaz617@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/AliShahbazzz">
-  <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
----
+## About
 
-## 👋 About Me
+I'm a Software Engineer with 5+ years of experience building production-grade software across frontend, backend, and cloud infrastructure.
 
-I'm a software engineer with **5+ years of experience** building and scaling software across the stack.
+My work spans application architecture, scalable APIs, distributed workflows, performance optimization, and AI-powered applications. I enjoy working across the entire software development lifecycle — from understanding business problems and designing systems to implementation, deployment, and optimization.
 
-I work across frontend engineering, backend architecture, distributed systems, cloud infrastructure, and AI-powered applications.
-
-I enjoy understanding complex problems, exploring different approaches, and building systems that are reliable, scalable, and maintainable.
-
-My interests go beyond writing code — I'm equally curious about software architecture, engineering trade-offs, and the real-world problems technology can solve.
+I believe good engineering is about solving the right problems with simple, maintainable, and scalable solutions.
 
 ---
 
-## 🧩 Engineering Focus
+## What I've Built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### AI-Powered Applications
 
-### ◈ Full-Stack Engineering
+Built a ChatGPT-like conversational assistant with streaming responses and agent orchestration.
 
-Building production-grade applications with modern frontend frameworks and backend technologies.
+- Developed interactive conversational interfaces with real-time streaming using Server-Sent Events.
+- Integrated LangGraph for orchestrating AI agents and tool-driven workflows.
+- Worked across frontend, backend, and LLM integration layers.
 
-`React` `Next.js` `TypeScript` `Node.js` `Python`
+`React` `TypeScript` `Python` `LangGraph` `SSE`
 
-</td>
-<td width="50%" valign="top">
+### Scalable B2B Commerce Platform
 
-### ◈ Backend & Distributed Systems
+Contributed to re-architecting a B2B commerce SaaS platform, working across application architecture and backend services.
 
-Designing scalable APIs, microservices, asynchronous workflows, and real-time systems.
+- Developed modular frontend applications using React and Next.js.
+- Built backend services and APIs using NestJS.
+- Worked on scalable application modules and reusable engineering foundations.
 
-`NestJS` `FastAPI` `Temporal` `WebSockets`
+`React` `Next.js` `TypeScript` `NestJS`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Frontend Performance Engineering
 
-### ◈ AI & LLM Engineering
+Led performance optimization initiatives for production applications.
 
-Developing intelligent applications with agent orchestration, retrieval pipelines, and tool integrations.
+- Reduced initial application load time by **70%**.
+- Reduced application bundle size by **45%**.
+- Improved application loading and delivery through build optimization and architectural improvements.
 
-`LangGraph` `LangChain` `LiteLLM` `RAG`
+`React` `Webpack` `JavaScript` `TypeScript`
 
-</td>
-<td width="50%" valign="top">
+### Micro-Frontend Architecture
 
-### ◈ Architecture & Infrastructure
+Architected a monorepo-based micro-frontend ecosystem supporting multiple independently developed applications.
 
-Building maintainable architectures, optimizing performance, and deploying cloud-native applications.
+- Designed shared libraries and application boundaries.
+- Implemented module federation using Webpack.
+- Worked on dependency sharing, build optimization, and integration between host and remote applications.
 
-`AWS` `Docker` `Nx` `Webpack` `Vite`
+`Nx` `Webpack` `Module Federation` `React`
 
-</td>
-</tr>
-</table>
+### Desktop & ERP Integration
 
----
+Developed a desktop application connecting modern web interfaces with Tally ERP workflows.
 
-## 🚀 Selected Projects
+- Built desktop application interfaces using React and Electron.
+- Integrated application workflows with ERP functionality.
+- Worked on communication between desktop and backend services.
 
-### Syncwell Localfirst
-
-**Offline-first collaborative workspace**
-
-`Node.js` · `Yjs` · `IndexedDB` · `WebSockets`
-
-A collaborative editor built around CRDTs and local-first architecture.
-
-- Offline editing with conflict-free synchronization.
-- Real-time collaboration with live cursors and presence.
-- WebSocket-based synchronization server.
-
-[View Repository](https://github.com/AliShahbazzz)
-
-### Meet Shahbaz AI
-
-**RAG-powered personal knowledge assistant**
-
-`Python` · `FastAPI` · `React` · `LangChain` · `ChromaDB`
-
-An AI assistant that answers questions about my professional experience.
-
-- Hybrid retrieval using BM25 and semantic search.
-- Cross-encoder reranking for improved retrieval relevance.
-- Context-grounded responses using LLMs.
-
-[View Repository](https://github.com/AliShahbazzz)
+`React` `Electron` `Node.js`
 
 ---
 
-## 🔍 How I Approach Engineering
-
-- **Understand before building** — Start with the problem, constraints, and trade-offs.
-- **Keep complexity intentional** — Prefer simple, maintainable architectures over unnecessary abstractions.
-- **Think beyond the happy path** — Consider failures, retries, scalability, and observability.
-- **Own the entire lifecycle** — From architecture and implementation to deployment and production support.
-- **Keep learning by building** — Explore unfamiliar concepts through practical implementation.
-
----
-
-## 🛠️ Technology Stack
+## Technical Expertise
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,python" />
+JavaScript · TypeScript · Python
 
-**Frontend**
+**Frontend Engineering**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css" />
+React · Next.js · React Native Web · Redux Toolkit · MUI · TanStack Table
 
-**Backend & Databases**
+**Backend Engineering**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,mysql,mongodb,postgres" />
+Node.js · NestJS · FastAPI · REST APIs
 
-**Cloud & Tools**
+**AI & LLM Engineering**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,webpack,vite" />
+LangGraph · LangChain · OpenAI · Embeddings · OpenSearch
 
-**AI & LLMs**
+**Databases**
 
-`LangGraph` · `LangChain` · `LiteLLM` · `RAG` · `Vector Search` · `Embeddings`
+MySQL · MongoDB · DynamoDB
+
+**Cloud & Infrastructure**
+
+AWS · Google Cloud · Docker · CloudFront · S3 · Lambda
+
+**Build Systems & Tooling**
+
+Nx · Webpack · Vite · Rollup · pnpm · GitHub Actions
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
-- Distributed systems and system design
-- Database internals and scalable backend architecture
-- Reliable workflow orchestration
-- AI agent architectures and evaluation
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AliShahbazzz&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliShahbazzz&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-</div>
+- System design and distributed systems
+- Workflow orchestration and reliable background processing
+- AI agent architectures and prompt optimization
+- Backend architecture and scalable application design
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### Let's Connect
 
-*Interested in engineering challenges, thoughtful architecture, and meaningful collaborations.*
+**Have an interesting problem or an idea worth building?**
 
-[LinkedIn](https://linkedin.com/in/syed-shahbaz-ali) · [Email](mailto:alishahbaz617@gmail.com)
+<a href="https://linkedin.com/in/syed-shahbaz-ali">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alishahbaz617@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*Building software that solves meaningful problems.*
 
 </div>
