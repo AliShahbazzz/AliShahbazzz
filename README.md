@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### ⚡ Curious by nature. &nbsp; ⚙️ Engineer by choice. &nbsp; 🚀 Builder by instinct.
+### ⚡ Explore ideas. &nbsp; ⚙️ Engineer solutions. &nbsp; 🚀 Build systems.
 
 </div>
 
