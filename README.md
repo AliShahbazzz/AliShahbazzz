@@ -2,16 +2,15 @@
 
 # Syed Shahbaz Ali
 
-<div align="center">
-
 ### ⚡ Explore ideas. &nbsp; ⚙️ Engineer solutions. &nbsp; 🚀 Build systems.
-
-</div>
 
 **Software Engineer · Full-Stack Development · AI Engineering**
 
 <br/>
 
+<a href="https://syedshahbazali.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://linkedin.com/in/syed-shahbaz-ali">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -23,6 +22,8 @@
 </a>
 
 </div>
+
+---
 
 ## About
 
@@ -73,7 +74,7 @@ Designed application architectures and led optimization initiatives for producti
 
 - Architected a monorepo-based micro-frontend ecosystem supporting independently developed applications.
 - Implemented Webpack Module Federation and shared dependency management.
-- Reduced initial application load time by **70%** and bundle size by **45%** through performance optimization.
+- Reduced initial application load time by **80%** and bundle size by **25%** through performance optimization.
 
 `Nx` `Webpack` `Module Federation` `React` `TypeScript`
 
@@ -136,11 +137,14 @@ Nx · Webpack · Vite · Rollup · pnpm · GitHub Actions
 
 **Have an interesting problem or an idea worth building?**
 
+<a href="https://syedshahbazali.com">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://linkedin.com/in/syed-shahbaz-ali">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:alishahbaz617@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
