@@ -34,57 +34,58 @@ I believe good engineering is about solving the right problems with simple, main
 
 ---
 
-## What I've Built
+## Selected Engineering Work
 
-### AI-Powered Applications
+### AI-Powered Applications & Agent Systems
 
-Built a ChatGPT-like conversational assistant with streaming responses and agent orchestration.
+Built a conversational AI assistant combining modern application architecture with LLM-powered agent workflows.
 
-- Developed interactive conversational interfaces with real-time streaming using Server-Sent Events.
-- Integrated LangGraph for orchestrating AI agents and tool-driven workflows.
-- Worked across frontend, backend, and LLM integration layers.
+- Designed streaming interactions using Server-Sent Events.
+- Integrated LangGraph to orchestrate agents, tools, and multi-step workflows.
+- Developed application and backend integrations connecting user interactions with AI capabilities.
 
 `React` `TypeScript` `Python` `LangGraph` `SSE`
 
-### Scalable B2B Commerce Platform
+### B2B Commerce Platform
 
-Contributed to re-architecting a B2B commerce SaaS platform, working across application architecture and backend services.
+Contributed to re-architecting a B2B commerce SaaS platform, working across frontend applications, backend services, and system integrations.
 
-- Developed modular frontend applications using React and Next.js.
+- Developed modular application architecture using React and Next.js.
 - Built backend services and APIs using NestJS.
-- Worked on scalable application modules and reusable engineering foundations.
+- Worked on reusable modules, application boundaries, and scalable business workflows.
 
-`React` `Next.js` `TypeScript` `NestJS`
+`Next.js` `React` `TypeScript` `NestJS` `MySQL`
 
-### Frontend Performance Engineering
+### Backend Systems & API Engineering
 
-Led performance optimization initiatives for production applications.
+Designed and developed backend services powering business applications, integrations, and data-driven workflows.
 
-- Reduced initial application load time by **70%**.
-- Reduced application bundle size by **45%**.
-- Improved application loading and delivery through build optimization and architectural improvements.
+- Built REST APIs and backend services using NestJS and FastAPI.
+- Worked with relational and NoSQL databases across different application requirements.
+- Developed integrations between external services, application layers, and business systems.
+- Explored AI-powered workflows, data retrieval, and search using OpenSearch.
 
-`React` `Webpack` `JavaScript` `TypeScript`
+`Node.js` `NestJS` `Python` `FastAPI` `MySQL` `MongoDB` `DynamoDB` `OpenSearch`
 
-### Micro-Frontend Architecture
+### Application Architecture & Performance Engineering
 
-Architected a monorepo-based micro-frontend ecosystem supporting multiple independently developed applications.
+Designed application architectures and led optimization initiatives for production systems.
 
-- Designed shared libraries and application boundaries.
-- Implemented module federation using Webpack.
-- Worked on dependency sharing, build optimization, and integration between host and remote applications.
+- Architected a monorepo-based micro-frontend ecosystem supporting independently developed applications.
+- Implemented Webpack Module Federation and shared dependency management.
+- Reduced initial application load time by **70%** and bundle size by **45%** through performance optimization.
 
-`Nx` `Webpack` `Module Federation` `React`
+`Nx` `Webpack` `Module Federation` `React` `TypeScript`
 
-### Desktop & ERP Integration
+### Desktop Applications & ERP Integrations
 
-Developed a desktop application connecting modern web interfaces with Tally ERP workflows.
+Developed a desktop application bridging modern web technologies with Tally ERP workflows.
 
 - Built desktop application interfaces using React and Electron.
-- Integrated application workflows with ERP functionality.
-- Worked on communication between desktop and backend services.
+- Integrated application workflows with Tally ERP.
+- Worked on communication between desktop applications, backend services, and external systems.
 
-`React` `Electron` `Node.js`
+`React` `Electron` `Node.js` `Tally ERP`
 
 ---
 
@@ -96,11 +97,11 @@ JavaScript · TypeScript · Python
 
 **Frontend Engineering**
 
-React · Next.js · React Native Web · Redux Toolkit · MUI · TanStack Table
+React · Next.js · React Native · Redux Toolkit · MUI · Shadcn
 
 **Backend Engineering**
 
-Node.js · NestJS · FastAPI · REST APIs
+Node.js · NestJS · FastAPI · REST APIs · Django
 
 **AI & LLM Engineering**
 
@@ -112,7 +113,7 @@ MySQL · MongoDB · DynamoDB
 
 **Cloud & Infrastructure**
 
-AWS · Google Cloud · Docker · CloudFront · S3 · Lambda
+AWS · Google Cloud · Docker · CloudFront
 
 **Build Systems & Tooling**
 
